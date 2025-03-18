@@ -1,0 +1,52 @@
+/* Champion Comparison Styles */
+.champion-comparison {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: rgba(10, 20, 40, 0.6);
+  border-radius: 8px;
+  border: 1px solid var(--accent-color);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+.champion-comparison h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: var(--accent-color);
+  text-align: center;
+  border-bottom: 1px solid var(--accent-color);
+  padding-bottom: 0.5rem;
+}
+
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+  color: var(--text-color);
+}
+
+.comparison-table th,
+.comparison-table td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid var(--accent-color);
+}
+
+.comparison-table th {
+  background-color: var(--secondary-color);
+  color: var(--accent-color);
+  font-weight: bold;
+}
+
+.comparison-table tr.match td {
+  background-color: rgba(46, 204, 113, 0.2);
+  border-color: rgba(46, 204, 113, 0.5);
+}
+
+.comparison-table tr.mismatch td {
+  background-color: rgba(231, 76, 60, 0.2);
+  border-color: rgba(231, 76, 60, 0.5);
+}
+
+.comparison-table tr:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
