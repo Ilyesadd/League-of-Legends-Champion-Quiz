@@ -26,7 +26,7 @@ League of Legends Champion Quiz est une application web interactive qui teste vo
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/votre-nom/lol-quiz.git
+   git clone https://github.com/ilesadd/lol-quiz.git
    cd lol-quiz
    ```
 
