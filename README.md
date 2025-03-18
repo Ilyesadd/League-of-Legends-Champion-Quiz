@@ -52,10 +52,10 @@ League of Legends Champion Quiz est une application web interactive qui teste vo
 
 ## 🖼️ Captures d'écran
 
-![Quiz Interface](https://i.imgur.com/example1.png)
+![Quiz Interface](./design/image1.jpg)
 *Interface principale du quiz*
 
-![Comparison Feature](https://i.imgur.com/example2.png)
+![Comparison Feature](./design/image2.jpg)
 *Fonctionnalité de comparaison entre votre réponse et le champion correct*
 
 ## 🔧 Scripts disponibles
@@ -74,4 +74,4 @@ Ce projet n'est pas affilié à Riot Games. League of Legends et tous les champi
 
 ---
 
-Créé avec ❤️ par [Votre Nom]
+Inspiré de https://loldle.net/
